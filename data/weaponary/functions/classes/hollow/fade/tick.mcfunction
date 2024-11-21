@@ -5,4 +5,5 @@ execute as @a[team=Hollow] if score @s fadeParticle matches 1.. at @s run functi
 
 # CD
 execute as @a[tag=!active_hollow_fade, team=Hollow] run scoreboard players remove @s fadeDuration 1
-execute as @a[scores={fadeDuration=..-300}] if entity @s run scoreboard players set @s fadeDuration -300
+# 500 здесь, это просто предосторожность, чтобы не уходило слишком в минус. Настройка кулдауна в fungus_click_detection
+execute as @a[scores={fadeDuration=..-500}] if entity @s run scoreboard players set @s fadeDuration -500

@@ -13,7 +13,12 @@ execute at @s run summon item ~ ~ ~ {Item:{id:"minecraft:stone",Count:1b},Tags:[
 execute as @e[type=minecraft:interaction, tag=withItem] if data entity @s interaction run tag @s add clickedInter
 data modify entity @e[nbt={Item:{id:"minecraft:stone",Count:1b},Tags:["dropped_item"]}, limit=1] Owner set from entity @s UUID
 execute as @e[type=minecraft:interaction, tag=clickedInter] on passengers run data modify entity @e[nbt={Item:{id:"minecraft:stone"},Tags:["dropped_item"]}, limit=1] Item set from entity @s item
+
 execute as @e[type=item, tag=dropped_item, nbt={Item:{id:"tacz:ammo"}}] run data modify entity @s Item.Count set value 15
+# пример увеличения количества выпадающих патронов(НУЖНО ПРОПИСАТЬ КАЖДЫЙ ТИП ПАТРОНОВ)
+# execute as @e[type=item, tag=dropped_item, nbt={Item:{id:"tacz:ammo", tag:{AmmoId:"emxarms:402x31"}}}] run data modify entity @s Item.Count set value 25
+
+
 execute as @e[type=item, tag=dropped_item, nbt={Item:{id:"tacz:ammo"}}] run data merge entity @s {Item:{tag:{dropped_item:1b}}}
 
 execute as @e[type=item, tag=dropped_item] run data merge entity @s {PickupDelay:0}
