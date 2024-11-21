@@ -1,0 +1,11 @@
+{
+    "values": [
+    "weaponary:fungus_click_detection",
+    "weaponary:heartbeat/tick",
+    "weaponary:damage_increase/tick",
+    "weaponary:dropped_items_to_de/tick",
+    "weaponary:dropped_items_to_de/pick_up_item/tick",
+    "weaponary:healthpacks/bossbar_creation/tick",
+    "weaponary:healthpacks/tick"
+ ]
+}

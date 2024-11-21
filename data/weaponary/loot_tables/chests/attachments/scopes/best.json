@@ -1,0 +1,85 @@
+{
+    "pools": [
+      {
+        "rolls": 1,
+        "entries": [
+          {
+            "type": "minecraft:item",
+            "name": "tacz:attachment",
+            "weight": 1,
+            "functions": [
+                {
+                    "function": "set_count",
+                    "count": 1
+                },
+                {
+                    "function": "set_nbt",
+                    "tag": "{AttachmentId:\"arip:sight_smtbd_cm2hp_10t60x56\",ZoomNumber:5}"
+                }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "name": "tacz:attachment",
+            "weight": 1,
+            "functions": [
+                {
+                    "function": "set_count",
+                    "count": 1
+                },
+                {
+                    "function": "set_nbt",
+                    "tag": "{AttachmentId:\"arip:sight_eotech_vudu_ffp_5t25x50\",ZoomNumber:6}"
+                }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "name": "tacz:attachment",
+            "weight": 1,
+            "functions": [
+                {
+                    "function": "set_count",
+                    "count": 1
+                },
+                {
+                    "function": "set_nbt",
+                    "tag": "{AttachmentId:\"arip:sight_vortex_razorhdg3_6t36x56\",ZoomNumber:12}"
+                }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "name": "tacz:attachment",
+            "weight": 1,
+            "functions": [
+                {
+                    "function": "set_count",
+                    "count": 1
+                },
+                {
+                    "function": "set_nbt",
+                    "tag": "{AttachmentId:\"arip:sight_vortex_razorhdg3_1t10x24\",ZoomNumber:5}"
+                }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "name": "tacz:attachment",
+            "weight": 1,
+            "functions": [
+                {
+                    "function": "set_count",
+                    "count": 1
+                },
+                {
+                    "function": "set_nbt",
+                    "tag": "{AttachmentId:\"tacz:scope_standard_8x\",ZoomNumber:4}"
+                }
+            ]
+          }
+        ]
+      }
+    ]
+}
+  

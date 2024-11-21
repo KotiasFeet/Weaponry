@@ -1,0 +1,84 @@
+{
+    "pools": [
+      {
+        "rolls": 1,
+        "entries": [
+          {
+            "type": "minecraft:item",
+            "name": "tacz:attachment",
+            "weight": 1,
+            "functions": [
+                {
+                    "function": "set_count",
+                    "count": 1
+                },
+                {
+                    "function": "set_nbt",
+                    "tag": "{AttachmentId:\"arip:grip_vector\"}"
+                }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "name": "tacz:attachment",
+            "weight": 1,
+            "functions": [
+                {
+                    "function": "set_count",
+                    "count": 1
+                },
+                {
+                    "function": "set_nbt",
+                    "tag": "{AttachmentId:\"arip:grip_shift\"}"
+                }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "name": "tacz:attachment",
+            "weight": 1,
+            "functions": [
+                {
+                    "function": "set_count",
+                    "count": 1
+                },
+                {
+                    "function": "set_nbt",
+                    "tag": "{AttachmentId:\"tacz:grip_magpul_afg_2\"}"
+                }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "name": "tacz:attachment",
+            "weight": 1,
+            "functions": [
+                {
+                    "function": "set_count",
+                    "count": 1
+                },
+                {
+                    "function": "set_nbt",
+                    "tag": "{AttachmentId:\"arip:grip_zolfaqar_gp\"}"
+                }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "name": "tacz:attachment",
+            "weight": 1,
+            "functions": [
+                {
+                    "function": "set_count",
+                    "count": 1
+                },
+                {
+                    "function": "set_nbt",
+                    "tag": "{AttachmentId:\"arip:grip_zolfaqar_gh\"}"
+                }
+            ]
+          }
+        ]
+      }
+    ]
+}
