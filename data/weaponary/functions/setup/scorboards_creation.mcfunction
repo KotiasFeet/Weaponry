@@ -46,6 +46,18 @@ scoreboard objectives add random_number dummy
 
 
 
+###> CLASSES
+## Hollow
+# Fade
+scoreboard objectives add fadeDuration dummy
+scoreboard objectives add fadeParticle dummy
+
+
+
+
+
+
+
 
 
 
