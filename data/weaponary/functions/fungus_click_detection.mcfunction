@@ -4,8 +4,8 @@ execute as @a if score @s fungusRightClick matches 1.. if entity @s[nbt={Selecte
 
 ###> CLASSES
 ## HOLLOW
-# Fade                                                                                                 кулдаун
-execute as @a if score @s fungusRightClick matches 1.. if entity @s[team=Hollow, scores={fadeDuration=..-300}, nbt={SelectedItem:{tag:{Tags:{fade:1}}}}] run function weaponary:classes/hollow/fade/add_effects
+# Fade     /give @s minecraft:warped_fungus_on_a_stick{Tags:["fade:1"]}                               кулдаун
+execute as @a if score @s fungusRightClick matches 1.. if entity @s[team=Hollow, scores={fadeDuration=..-300}, nbt={SelectedItem:{tag:{Tags:["fade:1"]}}}] run function weaponary:classes/hollow/fade/add_effects
 
 
 
