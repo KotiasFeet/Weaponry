@@ -15,7 +15,7 @@ data modify entity @e[nbt={Item:{id:"minecraft:stone",Count:1b},Tags:["dropped_i
 execute as @e[type=minecraft:interaction, tag=clickedInter] on passengers run data modify entity @e[nbt={Item:{id:"minecraft:stone"},Tags:["dropped_item"]}, limit=1] Item set from entity @s item
 
 execute as @e[type=item, tag=dropped_item, nbt={Item:{id:"tacz:ammo"}}] run data modify entity @s Item.Count set value 15
-# пример увеличения количества выпадающих патронов(НУЖНО ПРОПИСАТЬ КАЖДЫЙ ТИП ПАТРОНОВ)
+# пример увеличения количества выпадающих патронов(НУЖНО ПРОПИСАТЬ КАЖДЫЙ ТИП ПАТРОНОВ) 
 # execute as @e[type=item, tag=dropped_item, nbt={Item:{id:"tacz:ammo", tag:{AmmoId:"emxarms:402x31"}}}] run data modify entity @s Item.Count set value 25
 
 
