@@ -7,10 +7,12 @@ item replace entity @s weapon.mainhand with air
 
 effect clear @s regeneration
 
-stopsound @s master minecraft:music_disc.iapotianutebiazapiskuiotorvu
+stopsound @s master minecraft:music_disc.healsound_small
+stopsound @s master minecraft:music_disc.healsound_medium
+stopsound @s master minecraft:music_disc.healsound_large
 
-title @s actionbar ""
 tag @s remove HeartBeat
+title @s actionbar ""
 
 tag @s remove healing_sound
 

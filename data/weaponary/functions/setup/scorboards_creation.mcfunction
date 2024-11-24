@@ -22,7 +22,7 @@ scoreboard objectives add healthToSet dummy
 scoreboard objectives add damageTaken minecraft.custom:minecraft.damage_taken
 
 scoreboard objectives add damageTakenDummy dummy
-# Так как получаемий дамаг умножен на 1, то "multiplier" должен бить в десять раз меньше нужного: (damageTaken * multiplier) / divider ===> (damageTaken * (multiplier/10)) / divider
+# Так как получаемий дамаг умножен на 1, то "multiplier" должен бить в десять раз меньше желаемого: (damageTaken * multiplier) / divider ===> (damageTaken * (multiplier/10)) / divider
 scoreboard players set multiplier damageTakenDummy 20
 scoreboard players set divider damageTakenDummy 100
 
