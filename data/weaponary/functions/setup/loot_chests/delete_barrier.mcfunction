@@ -1,0 +1,1 @@
+execute at @e[tag=chest_placer] run setblock ~ ~ ~ air replace
