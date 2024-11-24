@@ -10,6 +10,7 @@
 
 
 
+
 # Prepare to use a minimum different from 0
 scoreboard players operation trueMax rng = max rng
 scoreboard players operation trueMax rng -= min rng
