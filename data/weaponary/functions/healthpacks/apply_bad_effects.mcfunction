@@ -20,7 +20,7 @@ tag @s remove HeartBeat
 
 tag @s remove healing_sound
 
-schedule function weaponary:healthpacks/apply_double_damage 5t
+schedule function weaponary:healthpacks/apply_double_damage 2t
 
 scoreboard players reset @s playHealthpackSound
 scoreboard players reset @s healthBossbar

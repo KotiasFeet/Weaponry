@@ -17,8 +17,7 @@ function weaponary:healthpacks/bossbar_creation/copy_val
 
 tag @s add HeartBeat
 
-execute at @s[tag=!healing_sound] run function weaponary:healthpacks/healing_sound
-
+execute as @s[nbt={SelectedItem:{tag:{healthpack:1b}}}, tag=!healing_sound] run function weaponary:healthpacks/healing_sound
 execute as @s run playsound minecraft:block.ancient_debris.fall master @a ~ ~ ~ .3 1
 
 execute as @s[scores={bossbar=1}] store result storage minecraft:healthpack1 max int 1 run bossbar get healthpack1 max
