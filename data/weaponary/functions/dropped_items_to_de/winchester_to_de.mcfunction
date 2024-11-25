@@ -1,4 +1,4 @@
-execute at @s run summon interaction ~ ~.05 ~ {width:1.0f,height:0.3f,Tags:["withItem"], Passengers:[{id:"minecraft:item_display"}]}
+execute at @s run summon interaction ~ ~.05 ~ {width:1.0f,height:0.3f,Tags:["withItem"], Passengers:[{id:"minecraft:item_display", view_range:0.03}]}
 
 data modify entity @e[type=item_display,limit=1,sort=nearest,tag=!withItem] item set from entity @s Item
 
