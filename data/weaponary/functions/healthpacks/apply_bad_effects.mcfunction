@@ -3,6 +3,7 @@ execute at @s run kill @e[type=arrow,sort=nearest,limit=1]
 function weaponary:healthpacks/slot_back
 item replace entity @s weapon.mainhand with air
 
+
 function weaponary:healthpacks/bossbar_creation/hide
 
 effect clear @s regeneration

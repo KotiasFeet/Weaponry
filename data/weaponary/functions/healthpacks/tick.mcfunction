@@ -5,6 +5,7 @@ execute as @a[scores={bowDraw=1.., health=150..}, nbt=!{SelectedItem:{tag:{healt
 execute as @a[scores={bowShoot=1.., health=..149}] if entity @s run function weaponary:healthpacks/apply_bad_effects
 execute as @a[scores={bowDraw=1.., health=..149}, nbt=!{SelectedItem:{tag:{healthpack:1b}}}] if entity @s run function weaponary:healthpacks/apply_bad_effects
 
+
 execute as @a[nbt={SelectedItem:{tag:{healthpack:1b}}}, nbt=!{Inventory:[{Slot:17b, id:"minecraft:arrow"}]}] run function weaponary:healthpacks/slot_to_arrow
 execute as @a[nbt=!{SelectedItem:{tag:{healthpack:1b}}}, tag=withHealthpack] run function weaponary:healthpacks/noitem_but_tag
 
