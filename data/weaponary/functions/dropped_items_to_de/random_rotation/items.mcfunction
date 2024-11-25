@@ -1,9 +1,9 @@
-scoreboard players set min rng 1
+scoreboard players set min rng 0
 scoreboard players set max rng 16
 function weaponary:rng/rng
 scoreboard players operation rnd_num random_number = out rng
 
-
+execute if score rnd_num random_number matches 0 run data modify entity @s transformation set value {left_rotation:[-0.26488686f,-0.26488686f,0.655618f,0.655618f],right_rotation:[0.0f,0.0f,0.0f,1.0f],scale:[0.99999994f,0.99999976f,1.0f],translation:[0.25f,0.0f,0.25f]}
 execute if score rnd_num random_number matches 1 run data modify entity @s transformation set value {left_rotation:[-0.26488686f,-0.26488686f,0.655618f,0.655618f],right_rotation:[0.0f,0.0f,0.0f,1.0f],scale:[0.99999994f,0.99999976f,1.0f],translation:[0.25f,0.0f,0.25f]}
 execute if score rnd_num random_number matches 2 run data modify entity @s transformation set value {left_rotation:[0.1349224f,0.1349224f,0.6941153f,0.6941153f],right_rotation:[0.0f,0.0f,0.0f,1.0f],scale:[0.9999985f,0.9999988f,0.9999993f],translation:[0.3f,0.0f,-0.15f]}
 execute if score rnd_num random_number matches 3 run data modify entity @s transformation set value {left_rotation:[0.385118f,0.385118f,0.59302956f,0.59302956f],right_rotation:[0.0f,0.0f,0.0f,1.0f],scale:[0.9999979f,0.99999803f,0.99999744f],translation:[0.1f,0.0f,-0.3f]}
