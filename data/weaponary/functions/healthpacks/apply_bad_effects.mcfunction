@@ -10,9 +10,10 @@ effect clear @s regeneration
 effect give @s blindness 2 1 true
 damage @s 40
 
-stopsound @s master minecraft:music_disc.healsound_small
-stopsound @s master minecraft:music_disc.healsound_medium
-stopsound @s master minecraft:music_disc.healsound_large
+stopsound @a master minecraft:music_disc.healsound_small
+stopsound @a master minecraft:music_disc.healsound_medium
+stopsound @a master minecraft:music_disc.healsound_large
+stopsound @a * minecraft:entity.arrow.shoot
 execute at @s run playsound minecraft:entity.player.hurt_freeze master @a ~ ~ ~ .3 1
 
 title @s actionbar ""

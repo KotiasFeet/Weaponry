@@ -39,7 +39,9 @@ tellraw @a[tag=debbuging] {"text": "scoreboards setuped", "color": "aqua"}
 scoreboard objectives add random_number dummy
 
 
-
+# teleports
+scoreboard objectives add teleportsID dummy
+scoreboard objectives add teleportWhoWhere dummy
 
 
 

@@ -8,6 +8,7 @@
     "weaponary:healthpacks/bossbar_creation/tick",
     "weaponary:healthpacks/tick",
     "weaponary:classes/hollow/fade/tick",
-    "weaponary:spawn/teleporting"
+    "weaponary:spawn/teleporting",
+    "weaponary:teleports/tick"
  ]
 }
