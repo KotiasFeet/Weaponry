@@ -18,7 +18,7 @@
                         },
                         {
                             "function": "set_nbt",
-                            "tag": "{GunFireMode:\"SEMI\",GunId:\"immersive_armorer:pistol_9mm\"}"
+                            "tag": "{GunFireMode:\"SEMI\",GunId:\"immersive_armorer:pistol_9mm\", GunCurrentAmmoCount:12}"
                         }
                     ]
                 }

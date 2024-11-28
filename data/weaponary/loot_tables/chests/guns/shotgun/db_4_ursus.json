@@ -19,7 +19,7 @@
                         },
                         {
                             "function": "set_nbt",
-                            "tag": "{GunFireMode:\"SEMI\",GunId:\"tacz:db_long\"}"
+                            "tag": "{GunFireMode:\"SEMI\",GunId:\"tacz:db_long\", GunCurrentAmmoCount:2}"
                         }
                     ]
                 }

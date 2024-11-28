@@ -19,7 +19,7 @@
                         },
                         {
                             "function": "set_nbt",
-                            "tag": "{GunFireMode:\"SEMI\",GunId:\"tacz:glock_17\"}"
+                            "tag": "{GunFireMode:\"SEMI\",GunId:\"tacz:glock_17\",GunCurrentAmmoCount:18}"
                         }
                     ]
                 }

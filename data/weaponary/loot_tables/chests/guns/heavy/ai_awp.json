@@ -20,7 +20,7 @@
                         {
 
                             "function": "set_nbt",
-                            "tag": "{GunFireMode:\"SEMI\",GunId:\"tacz:ai_awp\"}"
+                            "tag": "{GunFireMode:\"SEMI\",GunId:\"tacz:ai_awp\", GunCurrentAmmoCount:6}"
                         }
                     ]
                 }

@@ -20,7 +20,7 @@
                         {
 
                             "function": "set_nbt",
-                            "tag": "{GunFireMode:\"SEMI\",GunId:\"tacz:m95\"}"
+                            "tag": "{GunFireMode:\"SEMI\",GunId:\"tacz:m95\", GunCurrentAmmoCount:1}"
                         }
                     ]
                 }

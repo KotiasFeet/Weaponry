@@ -20,7 +20,7 @@
                         {
 
                             "function": "set_nbt",
-                            "tag": "{GunFireMode:\"AUTO\",GunId:\"tacz:hk_g3\"}"
+                            "tag": "{GunFireMode:\"AUTO\",GunId:\"tacz:hk_g3\", GunCurrentAmmoCount:20}"
                         }
                     ]
                 }

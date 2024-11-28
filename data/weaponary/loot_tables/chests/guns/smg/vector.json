@@ -20,7 +20,7 @@
                         {
 
                             "function": "set_nbt",
-                            "tag": "{GunFireMode:\"AUTO\",GunId:\"tacz:vector45\"}"
+                            "tag": "{GunFireMode:\"AUTO\",GunId:\"tacz:vector45\", GunCurrentAmmoCount:20}"
                         }
                     ]
                 }

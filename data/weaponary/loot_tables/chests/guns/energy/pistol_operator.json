@@ -18,7 +18,7 @@
                         },
                         {
                             "function": "set_nbt",
-                            "tag": "{AttachmentLock:1b, AttachmentMUZZLE:{Count:1b,id:\"tacz:attachment\",tag:{AttachmentId:\"emxarms:bayonet_emx_skyhunter\"}}, GunFireMode:\"SEMI\",GunId:\"emxarms:emx_tknife\"}"
+                            "tag": "{GunCurrentAmmoCount:6, AttachmentLock:1b, AttachmentMUZZLE:{Count:1b,id:\"tacz:attachment\",tag:{AttachmentId:\"emxarms:bayonet_emx_skyhunter\"}}, GunFireMode:\"SEMI\",GunId:\"emxarms:emx_tknife\"}"
                         }
                     ]
                 }

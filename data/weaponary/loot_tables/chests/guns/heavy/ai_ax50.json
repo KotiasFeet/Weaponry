@@ -20,7 +20,7 @@
                         {
 
                             "function": "set_nbt",
-                            "tag": "{GunFireMode:\"SEMI\",GunId:\"xiaomantou:ax50\"}"
+                            "tag": "{GunFireMode:\"SEMI\",GunId:\"xiaomantou:ax50\", GunCurrentAmmoCount:6}"
                         }
                     ]
                 }

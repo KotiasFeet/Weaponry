@@ -18,7 +18,7 @@
                         },
                         {
                             "function": "set_nbt",
-                            "tag": "{GunFireMode:\"AUTO\",GunId:\"emxarms:emx_mk951l\"}"
+                            "tag": "{GunFireMode:\"AUTO\",GunId:\"emxarms:emx_mk951l\", GunCurrentAmmoCount:30}"
                         }
                     ]
                 }

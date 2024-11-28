@@ -18,7 +18,7 @@
                         },
                         {
                             "function": "set_nbt",
-                            "tag": "{GunFireMode:\"AUTO\",GunId:\"immersive_armorer:assult_rifle\"}"
+                            "tag": "{GunFireMode:\"AUTO\",GunId:\"immersive_armorer:assult_rifle\", GunCurrentAmmoCount:20}"
                         }
                     ]
                 }

@@ -20,7 +20,7 @@
                         {
 
                             "function": "set_nbt",
-                            "tag": "{GunFireMode:\"AUTO\",GunId:\"atea:mdx2\"}"
+                            "tag": "{GunFireMode:\"AUTO\",GunId:\"atea:mdx2\", GunCurrentAmmoCount:20}"
                         }
                     ]
                 }

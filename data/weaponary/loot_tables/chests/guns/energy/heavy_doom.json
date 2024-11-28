@@ -46,7 +46,7 @@
                         },
                         {
                             "function": "set_nbt",
-                            "tag": "{AmmoId:\"emxarms:402x31\"}"
+                            "tag": "{AmmoId:\"emxarms:402x31\", GunCurrentAmmoCount:30}"
                         }
                     ]
                 }, 

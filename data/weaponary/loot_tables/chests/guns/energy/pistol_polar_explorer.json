@@ -18,7 +18,7 @@
                         },
                         {
                             "function": "set_nbt",
-                            "tag": "{GunFireMode:\"BURST\",GunId:\"emxarms:emx_kund50ex\"}"
+                            "tag": "{GunFireMode:\"BURST\",GunId:\"emxarms:emx_kund50ex\", GunCurrentAmmoCount:12}"
                         }
                     ]
                 }

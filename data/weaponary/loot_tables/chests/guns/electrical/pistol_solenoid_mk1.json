@@ -18,7 +18,7 @@
                         },
                         {
                             "function": "set_nbt",
-                            "tag": "{GunFireMode:\"SEMI\",GunId:\"immersive_armorer:standard_rail_pistol_mk1\"}"
+                            "tag": "{GunFireMode:\"SEMI\",GunId:\"immersive_armorer:standard_rail_pistol_mk1\", GunCurrentAmmoCount:3}"
                         }
                     ]
                 }

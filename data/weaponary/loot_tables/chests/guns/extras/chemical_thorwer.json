@@ -19,7 +19,7 @@
                         },
                         {
                             "function": "set_nbt",
-                            "tag": "{AttachmentEXTENDED_MAG:{Count:1b,id:\"tacz:attachment\",tag:{AttachmentId:\"immersive_armorer:extended_jar_3\"}},AttachmentLock:1b,AttachmentMUZZLE:{Count:1b,id:\"tacz:attachment\",tag:{AttachmentId:\"immersive_armorer:muzzle_refit_face_melter\"}},GunFireMode:\"AUTO\",GunId:\"immersive_armorer:chemical_thrower\"}"
+                            "tag": "{GunCurrentAmmoCount:100, AttachmentEXTENDED_MAG:{Count:1b,id:\"tacz:attachment\",tag:{AttachmentId:\"immersive_armorer:extended_jar_3\"}},AttachmentLock:1b,AttachmentMUZZLE:{Count:1b,id:\"tacz:attachment\",tag:{AttachmentId:\"immersive_armorer:muzzle_refit_face_melter\"}},GunFireMode:\"AUTO\",GunId:\"immersive_armorer:chemical_thrower\"}"
                         }
                     ]
                 }

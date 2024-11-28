@@ -18,7 +18,7 @@
                         },
                         {
                             "function": "set_nbt",
-                            "tag": "{GunFireMode:\"SEMI\",GunId:\"immersive_armorer:pump_shotgun\"}"
+                            "tag": "{GunFireMode:\"SEMI\",GunId:\"immersive_armorer:pump_shotgun\", GunCurrentAmmoCount:5}"
                         }
                     ]
                 }
