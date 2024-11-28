@@ -6,17 +6,22 @@
         "entries": [
           {
             "type": "minecraft:loot_table",
-            "name": "weaponary:chests/guns/sniper_rifles/ai_awp",
+            "name": "weaponary:chests/guns/pistol/cz_75",
             "weight": 2
           },
           {
             "type": "minecraft:loot_table",
-            "name": "weaponary:chests/guns/sniper_rifles/ai_ax50",
+            "name": "weaponary:chests/guns/pistol/glock",
             "weight": 2
           },
           {
             "type": "minecraft:loot_table",
-            "name": "weaponary:chests/guns/sniper_rifles/m95_50_antimaterial",
+            "name": "weaponary:chests/guns/pistol/legend",
+            "weight": 2
+          },
+          {
+            "type": "minecraft:loot_table",
+            "name": "weaponary:chests/guns/pistol/p320",
             "weight": 2
           }
         ]

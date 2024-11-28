@@ -6,27 +6,22 @@
         "entries": [
           {
             "type": "minecraft:loot_table",
-            "name": "weaponary:chests/guns/pistols/cz_75",
+            "name": "weaponary:chests/guns/shotgun/aa12",
             "weight": 2
           },
           {
             "type": "minecraft:loot_table",
-            "name": "weaponary:chests/guns/pistols/deagle_golden",
+            "name": "weaponary:chests/guns/shotgun/db_2_durin",
             "weight": 2
           },
           {
             "type": "minecraft:loot_table",
-            "name": "weaponary:chests/guns/pistols/deagle",
+            "name": "weaponary:chests/guns/shotgun/db_4_ursus",
             "weight": 2
           },
           {
             "type": "minecraft:loot_table",
-            "name": "weaponary:chests/guns/pistols/glock",
-            "weight": 2
-          },
-          {
-            "type": "minecraft:loot_table",
-            "name": "weaponary:chests/guns/pistols/p320",
+            "name": "weaponary:chests/guns/shotgun/shotgun_suppressor",
             "weight": 2
           }
         ]

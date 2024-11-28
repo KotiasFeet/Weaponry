@@ -6,17 +6,17 @@
         "entries": [
           {
             "type": "minecraft:loot_table",
-            "name": "weaponary:chests/guns/shotguns/aa12",
+            "name": "weaponary:chests/guns/extras/chemical_thorwer",
             "weight": 2
           },
           {
             "type": "minecraft:loot_table",
-            "name": "weaponary:chests/guns/shotguns/db_2_durin",
+            "name": "weaponary:chests/guns/extras/grenade_launcher",
             "weight": 2
           },
           {
             "type": "minecraft:loot_table",
-            "name": "weaponary:chests/guns/shotguns/db_4_ursus",
+            "name": "weaponary:chests/guns/extras/rpg",
             "weight": 2
           }
         ]

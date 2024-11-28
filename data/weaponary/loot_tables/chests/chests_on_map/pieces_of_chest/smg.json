@@ -11,6 +11,11 @@
           },
           {
             "type": "minecraft:loot_table",
+            "name": "weaponary:chests/guns/smg/microgun",
+            "weight": 2
+          },
+          {
+            "type": "minecraft:loot_table",
             "name": "weaponary:chests/guns/smg/ump_45",
             "weight": 2
           },

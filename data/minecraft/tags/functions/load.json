@@ -4,6 +4,7 @@
     "weaponary:setup/teams_creation",
     "weaponary:setup/rng_setup",
     "weaponary:healthpacks/bossbar_creation/load",
-    "weaponary:healthpacks/load"
+    "weaponary:healthpacks/load",
+    "weaponary:setup/gamerules"
 ]
 }

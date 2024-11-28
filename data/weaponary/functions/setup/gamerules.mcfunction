@@ -1,0 +1,2 @@
+gamerule doFireTick false
+gamerule naturalRegeneration false

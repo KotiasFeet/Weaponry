@@ -16,7 +16,7 @@
           },
           {
             "type": "minecraft:loot_table",
-            "name": "weaponary:chests/guns/rifles/hk_426d",
+            "name": "weaponary:chests/guns/rifles/hk_416d",
             "weight": 2
           },
           {
@@ -26,17 +26,22 @@
           },
           {
             "type": "minecraft:loot_table",
-            "name": "weaponary:chests/guns/rifles/m4a2_carbine",
+            "name": "weaponary:chests/guns/rifles/m4a1_carbine",
             "weight": 2
           },
           {
             "type": "minecraft:loot_table",
-            "name": "weaponary:chests/guns/rifles/m26a2_service",
+            "name": "weaponary:chests/guns/rifles/m16a1_service",
             "weight": 2
           },
           {
             "type": "minecraft:loot_table",
-            "name": "weaponary:chests/guns/rifles/m26a4_service",
+            "name": "weaponary:chests/guns/rifles/m16a4_service",
+            "weight": 2
+          },
+          {
+            "type": "minecraft:loot_table",
+            "name": "weaponary:chests/guns/rifles/m249",
             "weight": 2
           },
           {
@@ -46,7 +51,12 @@
           },
           {
             "type": "minecraft:loot_table",
-            "name": "weaponary:chests/guns/rifles/mk24_ebr",
+            "name": "weaponary:chests/guns/rifles/mk14_ebr",
+            "weight": 2
+          },
+          {
+            "type": "minecraft:loot_table",
+            "name": "weaponary:chests/guns/rifles/rpk74",
             "weight": 2
           },
           {
@@ -61,7 +71,7 @@
           },
           {
             "type": "minecraft:loot_table",
-            "name": "weaponary:chests/guns/rifles/sks_tactical_rifle",
+            "name": "weaponary:chests/guns/rifles/thrust_revers",
             "weight": 2
           }
         ]
