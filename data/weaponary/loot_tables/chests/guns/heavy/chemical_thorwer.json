@@ -19,7 +19,7 @@
                         },
                         {
                             "function": "set_nbt",
-                            "tag": "{GunFireMode:\"AUTO\",GunId:\"tacz:m249\"}"
+                            "tag": "{AttachmentEXTENDED_MAG:{Count:1b,id:\"tacz:attachment\",tag:{AttachmentId:\"immersive_armorer:extended_jar_3\"}},AttachmentLock:1b,AttachmentMUZZLE:{Count:1b,id:\"tacz:attachment\",tag:{AttachmentId:\"immersive_armorer:muzzle_refit_face_melter\"}},GunFireMode:\"AUTO\",GunId:\"immersive_armorer:chemical_thrower\"}"
                         }
                     ]
                 }
@@ -32,7 +32,6 @@
                 {
                     "type": "item",
                     "name": "tacz:ammo",
-                    "weight": 75,
                     "functions": [
                         {
                             "function": "set_count",
@@ -44,11 +43,10 @@
                         },
                         {
                             "function": "set_nbt",
-                            "tag": "{AmmoId:\"tacz:762x39\"}"
+                            "tag": "{AmmoId:\"immersive_armorer:chemical\"}"
                         }
                     ]
-                },
-                {"type": "empty", "weight": 25}
+                }
             ]
         }
     ]

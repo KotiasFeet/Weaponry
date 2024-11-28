@@ -1,0 +1,50 @@
+{
+    "type": "minecraft:chest",
+    "pools": [
+      {
+        "rolls": 1,
+        "entries": [
+          {
+            "type": "minecraft:loot_table",
+            "name": "weaponary:chests/guns/electrical/pistol_extitation_mk4",
+            "weight": 2
+          },
+          {
+            "type": "minecraft:loot_table",
+            "name": "weaponary:chests/guns/electrical/pistol_legend",
+            "weight": 2
+          },
+          {
+            "type": "minecraft:loot_table",
+            "name": "weaponary:chests/guns/electrical/pistol_revolver",
+            "weight": 2
+          },
+          {
+            "type": "minecraft:loot_table",
+            "name": "weaponary:chests/guns/electrical/pistol_solenoid_mk1",
+            "weight": 2
+          },
+          {
+            "type": "minecraft:loot_table",
+            "name": "weaponary:chests/guns/electrical/rifle_thrust_revers",
+            "weight": 2
+          },
+          {
+            "type": "minecraft:loot_table",
+            "name": "weaponary:chests/guns/electrical/shotgun_suppressor",
+            "weight": 2
+          },
+          {
+            "type": "minecraft:loot_table",
+            "name": "weaponary:chests/guns/electrical/smg_servo_circut",
+            "weight": 2
+          },
+          {
+            "type": "minecraft:loot_table",
+            "name": "weaponary:chests/guns/electrical/sniper_railgun",
+            "weight": 2
+          }
+        ]
+      }
+    ]
+}

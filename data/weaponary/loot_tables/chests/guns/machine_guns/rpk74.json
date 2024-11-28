@@ -19,7 +19,7 @@
                         },
                         {
                             "function": "set_nbt",
-                            "tag": "{GunFireMode:\"AUTO\",GunId:\"gz:black_market_rpk74\"}"
+                            "tag": "{GunFireMode:\"AUTO\",GunId:\"tacz:rpk\"}"
                         }
                     ]
                 }
@@ -32,6 +32,7 @@
                 {
                     "type": "item",
                     "name": "tacz:ammo",
+                    "weight": 75,
                     "functions": [
                         {
                             "function": "set_count",
@@ -46,7 +47,8 @@
                             "tag": "{AmmoId:\"tacz:762x39\"}"
                         }
                     ]
-                }
+                },
+                {"type": "empty", "weight": 25}
             ]
         }
     ]

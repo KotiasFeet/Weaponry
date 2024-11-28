@@ -19,7 +19,7 @@
                         },
                         {
                             "function": "set_nbt",
-                            "tag": "{GunFireMode:\"AUTO\",GunId:\"tacz:m249\"}"
+                            "tag": "{GunFireMode:\"SEMI\",GunId:\"tacz:rpg7\"}"
                         }
                     ]
                 }
@@ -44,7 +44,7 @@
                         },
                         {
                             "function": "set_nbt",
-                            "tag": "{AmmoId:\"tacz:762x39\"}"
+                            "tag": "{AmmoId:\"tacz:rpg_rocket\"}"
                         }
                     ]
                 },

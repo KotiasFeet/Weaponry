@@ -1,0 +1,30 @@
+{
+    "type": "minecraft:chest",
+    "pools": [
+      {
+        "rolls": 1,
+        "entries": [
+          {
+            "type": "minecraft:loot_table",
+            "name": "weaponary:chests/guns/smg/hk_mp5a5",
+            "weight": 2
+          },
+          {
+            "type": "minecraft:loot_table",
+            "name": "weaponary:chests/guns/smg/ump_45",
+            "weight": 2
+          },
+          {
+            "type": "minecraft:loot_table",
+            "name": "weaponary:chests/guns/smg/uzi",
+            "weight": 2
+          },
+          {
+            "type": "minecraft:loot_table",
+            "name": "weaponary:chests/guns/smg/vector",
+            "weight": 2
+          }
+        ]
+      }
+    ]
+}

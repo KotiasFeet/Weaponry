@@ -14,19 +14,21 @@
                             "count":{
                                 "min": 1,
                                 "max": 1
-                            },
-                            "add": true
+                            }
                         },
                         {
                             "function": "set_nbt",
-                            "tag": "{GunFireMode:\"AUTO\",GunId:\"tacz:m249\"}"
+                            "tag": "{GunFireMode:\"AUTO\",GunId:\"immersive_armorer:assult_rifle\"}"
                         }
                     ]
                 }
             ]
         },
         {
-            "rolls": 1.0,
+            "rolls": {
+                "min": 1,
+                "max": 1
+            },
             "bonus_rolls": 0.0,
             "entries": [
                 {
@@ -47,8 +49,8 @@
                             "tag": "{AmmoId:\"tacz:762x39\"}"
                         }
                     ]
-                },
-                {"type": "empty", "weight": 25}
+                }, 
+                { "type": "empty", "weight": 25 }
             ]
         }
     ]

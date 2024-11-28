@@ -2,64 +2,66 @@
     "type": "minecraft:chest",
     "pools": [
       {
-        "rolls": {
-                "min": 2,
-                "max": 4
-            },
+        "rolls": 1,
         "entries": [
           {
             "type": "minecraft:loot_table",
-            "name": "weaponary:chests/chests_on_map/pieces_of_chest/ammo",
+            "name": "weaponary:chests/guns/rifles/akm",
             "weight": 2
           },
           {
             "type": "minecraft:loot_table",
-            "name": "weaponary:chests/chests_on_map/pieces_of_chest/electrical_guns",
+            "name": "weaponary:chests/guns/rifles/aug",
             "weight": 2
           },
           {
             "type": "minecraft:loot_table",
-            "name": "weaponary:chests/chests_on_map/pieces_of_chest/energy_guns",
+            "name": "weaponary:chests/guns/rifles/hk_426d",
             "weight": 2
           },
           {
             "type": "minecraft:loot_table",
-            "name": "weaponary:chests/chests_on_map/pieces_of_chest/healthpacks",
+            "name": "weaponary:chests/guns/rifles/hk_g3_battle_rifle",
             "weight": 2
           },
           {
             "type": "minecraft:loot_table",
-            "name": "weaponary:chests/chests_on_map/pieces_of_chest/heavy_guns",
+            "name": "weaponary:chests/guns/rifles/m4a2_carbine",
             "weight": 2
           },
           {
             "type": "minecraft:loot_table",
-            "name": "weaponary:chests/chests_on_map/pieces_of_chest/machine_guns",
+            "name": "weaponary:chests/guns/rifles/m26a2_service",
             "weight": 2
           },
           {
             "type": "minecraft:loot_table",
-            "name": "weaponary:chests/chests_on_map/pieces_of_chest/pistols",
+            "name": "weaponary:chests/guns/rifles/m26a4_service",
             "weight": 2
           },
           {
             "type": "minecraft:loot_table",
-            "name": "weaponary:chests/chests_on_map/pieces_of_chest/rifles",
+            "name": "weaponary:chests/guns/rifles/maxim_defense_pdx_sd_sbr",
             "weight": 2
           },
           {
             "type": "minecraft:loot_table",
-            "name": "weaponary:chests/chests_on_map/pieces_of_chest/shotguns",
+            "name": "weaponary:chests/guns/rifles/mk24_ebr",
             "weight": 2
           },
           {
             "type": "minecraft:loot_table",
-            "name": "weaponary:chests/chests_on_map/pieces_of_chest/smgs",
+            "name": "weaponary:chests/guns/rifles/scar_h",
             "weight": 2
           },
           {
             "type": "minecraft:loot_table",
-            "name": "weaponary:chests/chests_on_map/pieces_of_chest/sniper_rifles",
+            "name": "weaponary:chests/guns/rifles/scar_l",
+            "weight": 2
+          },
+          {
+            "type": "minecraft:loot_table",
+            "name": "weaponary:chests/guns/rifles/sks_tactical_rifle",
             "weight": 2
           }
         ]

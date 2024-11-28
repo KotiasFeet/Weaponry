@@ -1,0 +1,25 @@
+{
+    "type": "minecraft:chest",
+    "pools": [
+      {
+        "rolls": 1,
+        "entries": [
+          {
+            "type": "minecraft:loot_table",
+            "name": "weaponary:chests/guns/shotguns/aa12",
+            "weight": 2
+          },
+          {
+            "type": "minecraft:loot_table",
+            "name": "weaponary:chests/guns/shotguns/db_2_durin",
+            "weight": 2
+          },
+          {
+            "type": "minecraft:loot_table",
+            "name": "weaponary:chests/guns/shotguns/db_4_ursus",
+            "weight": 2
+          }
+        ]
+      }
+    ]
+}

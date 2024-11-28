@@ -18,8 +18,9 @@
                             "add": true
                         },
                         {
+
                             "function": "set_nbt",
-                            "tag": "{GunFireMode:\"AUTO\",GunId:\"tacz:m249\"}"
+                            "tag": "{GunFireMode:\"AUTO\",GunId:\"tacz:hk416d\"}"
                         }
                     ]
                 }

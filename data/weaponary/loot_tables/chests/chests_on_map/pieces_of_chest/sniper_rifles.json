@@ -1,0 +1,25 @@
+{
+    "type": "minecraft:chest",
+    "pools": [
+      {
+        "rolls": 1,
+        "entries": [
+          {
+            "type": "minecraft:loot_table",
+            "name": "weaponary:chests/guns/sniper_rifles/ai_awp",
+            "weight": 2
+          },
+          {
+            "type": "minecraft:loot_table",
+            "name": "weaponary:chests/guns/sniper_rifles/ai_ax50",
+            "weight": 2
+          },
+          {
+            "type": "minecraft:loot_table",
+            "name": "weaponary:chests/guns/sniper_rifles/m95_50_antimaterial",
+            "weight": 2
+          }
+        ]
+      }
+    ]
+}

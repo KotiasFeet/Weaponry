@@ -19,7 +19,7 @@
                         },
                         {
                             "function": "set_nbt",
-                            "tag": "{GunId:\"tacz:glock_17\"}"
+                            "tag": "{GunFireMode:\"SEMI\",GunId:\"tacz:glock_17\"}"
                         }
                     ]
                 }
@@ -32,6 +32,7 @@
                 {
                     "type": "item",
                     "name": "tacz:ammo",
+                    "weight": 75,
                     "functions": [
                         {
                             "function": "set_count",
@@ -46,7 +47,8 @@
                             "tag": "{AmmoId:\"tacz:9mm\"}"
                         }
                     ]
-                }
+                },
+                {"type": "empty", "weight": 25}
             ]
         }
     ]
