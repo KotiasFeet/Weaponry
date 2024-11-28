@@ -15,6 +15,7 @@ data modify entity @e[nbt={Item:{id:"minecraft:stone",Count:1b},Tags:["dropped_i
 execute as @e[type=minecraft:interaction, tag=clickedInter] on passengers run data modify entity @e[nbt={Item:{id:"minecraft:stone"},Tags:["dropped_item"]}, limit=1] Item set from entity @s item
 
 
+
 ## execute as @e[type=item, tag=dropped_item, nbt={Item:{id:"tacz:ammo"}}] run data modify entity @s Item.Count set value 15
 # пример увеличения количества выпадающих патронов(НУЖНО ПРОПИСАТЬ КАЖДЫЙ ТИП ПАТРОНОВ) 
 # SMG                                                                                                                                           SMG
@@ -26,7 +27,7 @@ execute as @e[type=item, tag=dropped_item, nbt={Item:{id:"tacz:ammo", tag:{AmmoI
 # Shotgun                                                                                                                                     Shotgun
 execute as @e[type=item, tag=dropped_item, nbt={Item:{id:"tacz:ammo", tag:{AmmoId:"tacz:12g"}}}] run data modify entity @s Item.Count set value 8
 # Rocket                                                                                                                                            Rocket
-execute as @e[type=item, tag=dropped_item, nbt={Item:{id:"tacz:ammo", tag:{AmmoId:"tacz:rpg_rocket"}}}] run data modify entity @s Item.Count set value 6
+execute as @e[type=item, tag=dropped_item, nbt={Item:{id:"tacz:ammo", tag:{AmmoId:"tacz:rpg_rocket"}}}] run data modify entity @s Item.Count set value 3
 # Rifle                                                                                                                                           Rifle
 execute as @e[type=item, tag=dropped_item, nbt={Item:{id:"tacz:ammo", tag:{AmmoId:"tacz:762x39"}}}] run data modify entity @s Item.Count set value 90
 # Energy                                                                                                                                            Energy
