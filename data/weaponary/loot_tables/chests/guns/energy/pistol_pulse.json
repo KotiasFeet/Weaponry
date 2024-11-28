@@ -18,7 +18,7 @@
                         },
                         {
                             "function": "set_nbt",
-                            "tag": "{GunFireMode:\"SEMI\",GunId:\"emxarms:emx_pulse\"}"
+                            "tag": "{GunFireMode:\"BURST\",GunId:\"emxarms:emx_pulse\"}"
                         }
                     ]
                 }
