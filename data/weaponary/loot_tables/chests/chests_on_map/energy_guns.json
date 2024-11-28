@@ -1,0 +1,95 @@
+{
+    "type": "minecraft:chest",
+    "pools": [
+      {
+        "rolls": 1,
+        "entries": [
+          {
+            "type": "minecraft:loot_table",
+            "name": "weaponary:chests/guns/energy_guns/heavy_doom",
+            "weight": 2
+          },
+          {
+            "type": "minecraft:loot_table",
+            "name": "weaponary:chests/guns/energy_guns/heavy_heavy_cavalry",
+            "weight": 2
+          },
+          {
+            "type": "minecraft:loot_table",
+            "name": "weaponary:chests/guns/energy_guns/heavy_imperial_guard",
+            "weight": 2
+          },
+          {
+            "type": "minecraft:loot_table",
+            "name": "weaponary:chests/guns/energy_guns/pistol_frost_stars",
+            "weight": 2
+          },
+          {
+            "type": "minecraft:loot_table",
+            "name": "weaponary:chests/guns/energy_guns/pistol_operator",
+            "weight": 2
+          },
+          {
+            "type": "minecraft:loot_table",
+            "name": "weaponary:chests/guns/energy_guns/pistol_polar_explorer",
+            "weight": 2
+          },
+          {
+            "type": "minecraft:loot_table",
+            "name": "weaponary:chests/guns/energy_guns/pistol_pulse",
+            "weight": 2
+          },
+          {
+            "type": "minecraft:loot_table",
+            "name": "weaponary:chests/guns/energy_guns/rifle_hunting_knife",
+            "weight": 2
+          },
+          {
+            "type": "minecraft:loot_table",
+            "name": "weaponary:chests/guns/energy_guns/rifle_long_bow",
+            "weight": 2
+          },
+          {
+            "type": "minecraft:loot_table",
+            "name": "weaponary:chests/guns/energy_guns/rifle_red_crowned_crane",
+            "weight": 2
+          },
+          {
+            "type": "minecraft:loot_table",
+            "name": "weaponary:chests/guns/energy_guns/shotgun_enforcer",
+            "weight": 2
+          },
+          {
+            "type": "minecraft:loot_table",
+            "name": "weaponary:chests/guns/energy_guns/shotgun_revolutionary",
+            "weight": 2
+          },
+          {
+            "type": "minecraft:loot_table",
+            "name": "weaponary:chests/guns/energy_guns/smg_dark_repulser",
+            "weight": 2
+          },
+          {
+            "type": "minecraft:loot_table",
+            "name": "weaponary:chests/guns/energy_guns/smg_explainer",
+            "weight": 2
+          },
+          {
+            "type": "minecraft:loot_table",
+            "name": "weaponary:chests/guns/energy_guns/smg_hidden_blade",
+            "weight": 2
+          },
+          {
+            "type": "minecraft:loot_table",
+            "name": "weaponary:chests/guns/energy_guns/sniper_artemis",
+            "weight": 2
+          },
+          {
+            "type": "minecraft:loot_table",
+            "name": "weaponary:chests/guns/energy_guns/sniper_imperial_bodyguard",
+            "weight": 2
+          }
+        ]
+      }
+    ]
+}

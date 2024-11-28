@@ -2,16 +2,19 @@
     "type": "minecraft:chest",
     "pools": [
       {
-        "rolls": 5,
+        "rolls": {
+                "min": 1,
+                "max": 3
+            },
         "entries": [
           {
             "type": "minecraft:loot_table",
-            "name": "weaponary:chests/guns/pistols/cz_75",
-            "weight": 3
+            "name": "weaponary:chests/chests_on_map/energy_guns",
+            "weight": 10
           },
           {
             "type": "minecraft:loot_table",
-            "name": "weaponary:chests/guns/energy_guns/artemis",
+            "name": "weaponary:chests/chests_on_map/energy_guns",
             "weight": 2
           }
         ]

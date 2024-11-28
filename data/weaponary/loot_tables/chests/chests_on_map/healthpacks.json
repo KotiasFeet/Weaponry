@@ -8,7 +8,7 @@
                 {
                     "type": "item",
                     "name": "minecraft:bow",
-                    "weight": 7,
+                    "weight": 10,
                     "functions": [
                         {
                             "function": "set_count",
@@ -16,7 +16,7 @@
                         },
                         {
                             "function": "set_nbt",
-                            "tag": "{display:{Name:'[\"\",{\"text\":\"Small Healthack\",\"italic\":false}]'},small_healthpack:1b,healthpack:1b}"
+                            "tag": "{display:{Name:'[\"\",{\"text\":\"Small Healthack\",\"italic\":false}]'},small_healthpack:1b,healthpack:1b, CustomModelData:1}"
                         }
                     ]
                 },
@@ -31,7 +31,7 @@
                         },
                         {
                             "function": "set_nbt",
-                            "tag": "{display:{Name:'[\"\",{\"text\":\"Medium Healthack\",\"italic\":false}]'},medium_healthpack:1b,healthpack:1b}"
+                            "tag": "{display:{Name:'[\"\",{\"text\":\"Medium Healthack\",\"italic\":false}]'},medium_healthpack:1b,healthpack:1b, CustomModelData:1}"
                         }
                     ]
                 },
@@ -46,7 +46,7 @@
                         },
                         {
                             "function": "set_nbt",
-                            "tag": "{display:{Name:'[\"\",{\"text\":\"Large Healthack\",\"italic\":false}]'},large_healthpack:1b,healthpack:1b}"
+                            "tag": "{display:{Name:'[\"\",{\"text\":\"Large Healthack\",\"italic\":false}]'},large_healthpack:1b,healthpack:1b, CustomModelData:1}"
                         }
                     ]
                 },
@@ -61,7 +61,7 @@
                         },
                         {
                             "function": "set_nbt",  
-                            "tag": "{display:{Name:'[\"\",{\"text\":\"Combat Healthack\",\"italic\":false}]'},combat_healthpack:1b,healthpack:1b}"
+                            "tag": "{display:{Name:'[\"\",{\"text\":\"Combat Healthack\",\"italic\":false}]'},combat_healthpack:1b,healthpack:1b, CustomModelData:1}"
                         }
                     ]
                 }
