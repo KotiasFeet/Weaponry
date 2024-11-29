@@ -14,5 +14,6 @@ execute as @a[tag=with_parachute] if entity @s[nbt={Inventory:[{Slot:103b, id:"m
 
 execute as @a[tag=with_parachute] if entity @s[nbt={OnGround:1b}] run tag @s remove on_plane
 execute as @a[tag=with_parachute] if entity @s[nbt={OnGround:1b}] run tag @s remove with_parachute
+
 execute as @a[tag=!with_parachute] run clear @s minecraft:red_stained_glass{parachute:1}
 
