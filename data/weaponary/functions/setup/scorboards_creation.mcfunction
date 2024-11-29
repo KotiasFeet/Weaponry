@@ -46,7 +46,11 @@ scoreboard objectives add teleportWhoWhere dummy
 # Plane
 scoreboard objectives add planeStartingPos dummy
 scoreboard objectives add planeEndPos dummy
-scoreboard objectives add planePositionsScore dummy
+scoreboard objectives add planeRoot dummy
+scoreboard objectives add planeHighestScore dummy
+execute unless entity @e[tag=plane_start] run scoreboard players set start planeHighestScore -1
+execute unless entity @e[tag=plane_end] run scoreboard players set end planeHighestScore -1
+scoreboard players set 1 planeHighestScore 1
 
 
 
