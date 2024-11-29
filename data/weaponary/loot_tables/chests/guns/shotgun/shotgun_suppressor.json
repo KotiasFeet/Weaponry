@@ -25,6 +25,67 @@
             ]
         },
         {
+            "rolls": 1.0,
+            "bonus_rolls": 0.0,
+            "entries": [
+                {
+                    "type": "item",
+                    "name": "tacz:attachment",
+                    "weight": 17,
+                    "functions": [
+                        {
+                            "function": "set_count",
+                            "count":{
+                                "min": 1,
+                                "max": 1
+                            }
+                        },
+                        {
+                            "function": "set_nbt",
+                            "tag": "{AttachmentId:\"immersive_armorer:muzzle_refit_pressure_wave\"}"   
+                        }
+                    ]
+                }, 
+                {
+                    "type": "item",
+                    "name": "tacz:attachment",
+                    "weight": 17,
+                    "functions": [
+                        {
+                            "function": "set_count",
+                            "count":{
+                                "min": 1,
+                                "max": 1
+                            }
+                        },
+                        {
+                            "function": "set_nbt",
+                            "tag": "{AttachmentId:\"immersive_armorer:muzzle_refit_electromagnetic_accelerator\"}"   
+                        }
+                    ]
+                },
+                {
+                    "type": "item",
+                    "name": "tacz:attachment",
+                    "weight": 17,
+                    "functions": [
+                        {
+                            "function": "set_count",
+                            "count":{
+                                "min": 1,
+                                "max": 1
+                            }
+                        },
+                        {
+                            "function": "set_nbt",
+                            "tag": "{AttachmentId:\"immersive_armorer:muzzle_extended_barrel\"}"   
+                        }
+                    ]
+                }, 
+                { "type": "empty", "weight": 949 }
+            ]
+        },
+        {
             "rolls": {
                 "min": 1,
                 "max": 1

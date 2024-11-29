@@ -14,7 +14,7 @@
                 },
                 {
                     "function": "set_nbt",
-                    "tag": "{AttachmentId:\"arip:grip_vector\"}"
+                    "tag": "{AttachmentId:\"atea:muzzle_osprey9\"}"
                 }
             ]
           },
@@ -29,7 +29,27 @@
                 },
                 {
                     "function": "set_nbt",
-                    "tag": "{AttachmentId:\"arip:grip_shift\"}"
+                    "tag": "{AttachmentId:\"atea:muzzle_ultra50\"}"
+                }
+            ]
+          },
+
+
+
+
+          
+          {
+            "type": "minecraft:item",
+            "name": "tacz:attachment",
+            "weight": 1,
+            "functions": [
+                {
+                    "function": "set_count",
+                    "count": 1
+                },
+                {
+                    "function": "set_nbt",
+                    "tag": "{AttachmentId:\"tacz:bayonet_m9\"}"
                 }
             ]
           },
@@ -44,7 +64,7 @@
                 },
                 {
                     "function": "set_nbt",
-                    "tag": "{AttachmentId:\"tacz:grip_magpul_afg_2\"}"
+                    "tag": "{AttachmentId:\"tacz:muzzle_brake_pioneer\"}"
                 }
             ]
           },
@@ -59,7 +79,7 @@
                 },
                 {
                     "function": "set_nbt",
-                    "tag": "{AttachmentId:\"arip:grip_zolfaqar_gp\"}"
+                    "tag": "{AttachmentId:\"tacz:muzzle_brake_cyclone_d2\"}"
                 }
             ]
           },
@@ -74,7 +94,7 @@
                 },
                 {
                     "function": "set_nbt",
-                    "tag": "{AttachmentId:\"arip:grip_zolfaqar_gh\"}"
+                    "tag": "{AttachmentId:\"tacz:muzzle_brake_cthulhu\"}"
                 }
             ]
           }

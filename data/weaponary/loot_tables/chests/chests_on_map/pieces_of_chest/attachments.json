@@ -1,0 +1,40 @@
+{
+    "type": "minecraft:chest",
+    "pools": [
+      {
+        "rolls": 1,
+        "entries": [
+          {
+            "type": "minecraft:loot_table",
+            "name": "weaponary:chests/attachments/extended_mag",
+            "weight": 2
+          },
+          {
+            "type": "minecraft:loot_table",
+            "name": "weaponary:chests/attachments/grip",
+            "weight": 2
+          },
+          {
+            "type": "minecraft:loot_table",
+            "name": "weaponary:chests/attachments/mazzle",
+            "weight": 2
+          },
+          {
+            "type": "minecraft:loot_table",
+            "name": "weaponary:chests/attachments/scope_bad",
+            "weight": 2
+          },
+          {
+            "type": "minecraft:loot_table",
+            "name": "weaponary:chests/attachments/scope_good",
+            "weight": 2
+          },
+          {
+            "type": "minecraft:loot_table",
+            "name": "weaponary:chests/attachments/stock",
+            "weight": 2
+          }
+        ]
+      }
+    ]
+}

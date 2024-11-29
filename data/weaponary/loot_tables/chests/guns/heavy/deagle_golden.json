@@ -31,6 +31,32 @@
             "entries": [
                 {
                     "type": "item",
+                    "name": "tacz:attachment",
+                    "weight": 5,
+                    "functions": [
+                        {
+                            "function": "set_count",
+                            "count":{
+                                "min": 1,
+                                "max": 1
+                            },
+                            "add": true
+                        },
+                        {
+                            "function": "set_nbt",
+                            "tag": "{AttachmentId:\"tacz:deagle_golden_long_barrel\"}"
+                        }
+                    ]
+                }, 
+                { "type": "empty", "weight": 95 }
+            ]
+        },
+        {
+            "rolls": 1.0,
+            "bonus_rolls": 0.0,
+            "entries": [
+                {
+                    "type": "item",
                     "name": "tacz:ammo",
                     "weight": 75,
                     "functions": [

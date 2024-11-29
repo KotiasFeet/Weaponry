@@ -1,7 +1,7 @@
 {
     "pools": [
       {
-        "rolls": 1,
+        "rolls": 27,
         "entries": [
           {
             "type": "minecraft:item",
@@ -14,7 +14,7 @@
                 },
                 {
                     "function": "set_nbt",
-                    "tag": "{AttachmentId:\"arip:arip_open\"}"
+                    "tag": "{AttachmentId:\"emxarms:grip_emx_wireframedb\"}"
                 }
             ]
           },
@@ -29,7 +29,7 @@
                 },
                 {
                     "function": "set_nbt",
-                    "tag": "{AttachmentId:\"arip:sight_eotech_hhs5_ogl_ftc_aiminlaser\",ZoomNumber:1}"
+                    "tag": "{AttachmentId:\"emxarms:grip_emx_maxvalue\"}"
                 }
             ]
           },
@@ -44,7 +44,7 @@
                 },
                 {
                     "function": "set_nbt",
-                    "tag": "{AttachmentId:\"arip:sight_eotech_hhs5_ogl_ftc_nozoom\"}"
+                    "tag": "{AttachmentId:\"atea:grip_zolfaqar_gc\"}"
                 }
             ]
           },
@@ -59,7 +59,22 @@
                 },
                 {
                     "function": "set_nbt",
-                    "tag": "{AttachmentId:\"arip:sight_vortex_venom_rd_ambush\"}"
+                    "tag": "{AttachmentId:\"atea:grip_shift\"}"
+                }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "name": "tacz:attachment",
+            "weight": 1,
+            "functions": [
+                {
+                    "function": "set_count",
+                    "count": 1
+                },
+                {
+                    "function": "set_nbt",
+                    "tag": "{AttachmentId:\"tacz:grip_vertical_military\"}"
                 }
             ]
           }

@@ -14,6 +14,11 @@
           },
           {
             "type": "minecraft:loot_table",
+            "name": "weaponary:chests/chests_on_map/pieces_of_chest/attachments",
+            "weight": 2
+          },
+          {
+            "type": "minecraft:loot_table",
             "name": "weaponary:chests/chests_on_map/pieces_of_chest/electrical",
             "weight": 2
           },
