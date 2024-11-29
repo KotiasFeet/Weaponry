@@ -19,7 +19,7 @@
                         },
                         {
                             "function": "set_nbt",
-                            "tag": "{GunFireMode:\"AUTO\",GunId:\"tacz:rpk\", GunCurrentAmmoCount:40}"
+                            "tag": "{GunFireMode:\"AUTO\",GunId:\"tacz:rpk\", GunCurrentAmmoCount:41}"
                         }
                     ]
                 }

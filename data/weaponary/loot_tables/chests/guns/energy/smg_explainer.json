@@ -18,7 +18,7 @@
                         },
                         {
                             "function": "set_nbt",
-                            "tag": "{GunFireMode:\"AUTO\",GunId:\"emxarms:emx_expel32se\", GunCurrentAmmoCount:30}" 
+                            "tag": "{GunFireMode:\"AUTO\",GunId:\"emxarms:emx_expel32se\", GunCurrentAmmoCount:31}" 
                         }
                     ]
                 }

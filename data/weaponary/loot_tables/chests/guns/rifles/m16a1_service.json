@@ -20,7 +20,7 @@
                         {
 
                             "function": "set_nbt",
-                            "tag": "{GunFireMode:\"AUTO\",GunId:\"tacz:m16a1\", GunCurrentAmmoCount:20}"
+                            "tag": "{GunFireMode:\"AUTO\",GunId:\"tacz:m16a1\", GunCurrentAmmoCount:21}"
                         }
                     ]
                 }

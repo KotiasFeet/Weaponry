@@ -18,7 +18,7 @@
                         },
                         {
                             "function": "set_nbt",
-                            "tag": "{GunFireMode:\"SEMI\",GunId:\"emxarms:emx_mac100\", GunCurrentAmmoCount:8}"
+                            "tag": "{GunFireMode:\"SEMI\",GunId:\"emxarms:emx_mac100\", GunCurrentAmmoCount:9}"
                         }
                     ]
                 }
