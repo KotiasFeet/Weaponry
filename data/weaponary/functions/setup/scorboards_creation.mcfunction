@@ -1,6 +1,6 @@
 scoreboard objectives add fungusRightClick used:warped_fungus_on_a_stick
 scoreboard objectives add sprintingTime minecraft.custom:minecraft.sprint_one_cm
-
+scoreboard objectives add isSneaking minecraft.custom:minecraft.sneak_time
 
 # Healthpack
 scoreboard objectives add HeartBeatTimer dummy
@@ -39,12 +39,14 @@ tellraw @a[tag=debbuging] {"text": "scoreboards setuped", "color": "aqua"}
 scoreboard objectives add random_number dummy
 
 
-# teleports
+# Teleports
 scoreboard objectives add teleportsID dummy
 scoreboard objectives add teleportWhoWhere dummy
 
-
-
+# Plane
+scoreboard objectives add planeStartingPos dummy
+scoreboard objectives add planeEndPos dummy
+scoreboard objectives add planePositionsScore dummy
 
 
 

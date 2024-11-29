@@ -8,7 +8,11 @@
     "weaponary:healthpacks/bossbar_creation/tick",
     "weaponary:healthpacks/tick",
     "weaponary:classes/hollow/fade/tick",
-    "weaponary:spawn/teleporting",
-    "weaponary:teleports/tick"
+    "weaponary:spawn/teleport_choise/teleporting",
+    "weaponary:spawn/teleports_scrboard/tick",
+    "weaponary:spawn/plane/kill_plane",
+    "weaponary:spawn/plane/move_plane",
+    "weaponary:spawn/plane/tick",
+    "weaponary:setup/tick/is_sneaking"
  ]
 }
