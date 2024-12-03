@@ -14,7 +14,7 @@
                 },
                 {
                     "function": "set_nbt",
-                    "tag": "{AttachmentId:\"tacz:ammo_mod_i\"}"
+                    "tag": "{AttachmentId:\"tacz:ammo_mod_i\", 2d_shit:1b}"
                 }
             ]
           },
@@ -29,7 +29,7 @@
                 },
                 {
                     "function": "set_nbt",
-                    "tag": "{AttachmentId:\"tacz:ammo_mod_he\"}"
+                    "tag": "{AttachmentId:\"tacz:ammo_mod_he\", 2d_shit:1b}"
                 }
             ]
           },
@@ -44,7 +44,7 @@
                 },
                 {
                     "function": "set_nbt",
-                    "tag": "{AttachmentId:\"tacz:ammo_mod_hp\"}"
+                    "tag": "{AttachmentId:\"tacz:ammo_mod_hp\", 2d_shit:1b}"
                 }
             ]
           },
@@ -64,7 +64,7 @@
                 },
                 {
                     "function": "set_nbt",
-                    "tag": "{AttachmentId:\"tacz:extended_mag_1\"}"
+                    "tag": "{AttachmentId:\"tacz:extended_mag_1\", 2d_shit:1b}"
                 }
             ]
           },
@@ -79,7 +79,7 @@
                 },
                 {
                     "function": "set_nbt",
-                    "tag": "{AttachmentId:\"tacz:extended_mag_2\"}"
+                    "tag": "{AttachmentId:\"tacz:extended_mag_2\", 2d_shit:1b}"
                 }
             ]
           },
@@ -94,7 +94,7 @@
                 },
                 {
                     "function": "set_nbt",
-                    "tag": "{AttachmentId:\"tacz:extended_mag_3\"}"
+                    "tag": "{AttachmentId:\"tacz:extended_mag_3\", 2d_shit:1b}"
                 }
             ]
           }

@@ -14,7 +14,7 @@
                 },
                 {
                     "function": "set_nbt",
-                    "tag": "{AttachmentId:\"tacz:oem_stock_heavy\"}"
+                    "tag": "{AttachmentId:\"tacz:oem_stock_heavy\", 2d_shit:1b}"
                 }
             ]
           },
@@ -29,7 +29,7 @@
                 },
                 {
                     "function": "set_nbt",
-                    "tag": "{AttachmentId:\"tacz:oem_stock_tactical\"}"
+                    "tag": "{AttachmentId:\"tacz:oem_stock_tactical\", 2d_shit:1b}"
                 }
             ]
           },
@@ -44,7 +44,7 @@
                 },
                 {
                     "function": "set_nbt",
-                    "tag": "{AttachmentId:\"tacz:oem_stock_light\"}"
+                    "tag": "{AttachmentId:\"tacz:oem_stock_light\", 2d_shit:1b}"
                 }
             ]
           },
@@ -64,7 +64,7 @@
                 },
                 {
                     "function": "set_nbt",
-                    "tag": "{AttachmentId:\"emxarms:bayonet_emx_lightupgrade\"}"
+                    "tag": "{AttachmentId:\"emxarms:bayonet_emx_lightupgrade\", 2d_shit:1b}"
                 }
             ]
           },
@@ -79,7 +79,7 @@
                 },
                 {
                     "function": "set_nbt",
-                    "tag": "{AttachmentId:\"emxarms:stock_emx_sleep\"}"
+                    "tag": "{AttachmentId:\"emxarms:stock_emx_sleep\", 2d_shit:1b}"
                 }
             ]
           } 

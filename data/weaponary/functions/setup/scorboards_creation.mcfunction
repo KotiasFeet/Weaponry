@@ -19,6 +19,7 @@ scoreboard objectives add bowShoot minecraft.used:minecraft.bow
 
 # Damage Multiplyer
 scoreboard objectives add healthToSet dummy
+scoreboard objectives add healthToDummy dummy
 scoreboard objectives add damageTaken minecraft.custom:minecraft.damage_taken
 
 scoreboard objectives add damageTakenDummy dummy

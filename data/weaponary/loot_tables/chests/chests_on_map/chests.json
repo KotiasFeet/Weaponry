@@ -10,57 +10,57 @@
           {
             "type": "minecraft:loot_table",
             "name": "weaponary:chests/chests_on_map/pieces_of_chest/ammo",
-            "weight": 2
+            "weight": 160
           },
           {
             "type": "minecraft:loot_table",
             "name": "weaponary:chests/chests_on_map/pieces_of_chest/attachments",
-            "weight": 2
+            "weight": 96
           },
           {
             "type": "minecraft:loot_table",
             "name": "weaponary:chests/chests_on_map/pieces_of_chest/electrical",
-            "weight": 2
+            "weight": 64
           },
           {
             "type": "minecraft:loot_table",
             "name": "weaponary:chests/chests_on_map/pieces_of_chest/energy",
-            "weight": 2
+            "weight": 64
           },
           {
             "type": "minecraft:loot_table",
             "name": "weaponary:chests/chests_on_map/pieces_of_chest/extras",
-            "weight": 2
+            "weight": 16
           },
           {
             "type": "minecraft:loot_table",
             "name": "weaponary:chests/chests_on_map/pieces_of_chest/healthpacks",
-            "weight": 2
+            "weight": 48
           },
           {
             "type": "minecraft:loot_table",
             "name": "weaponary:chests/chests_on_map/pieces_of_chest/heavy",
-            "weight": 2
+            "weight": 32
           },
           {
             "type": "minecraft:loot_table",
             "name": "weaponary:chests/chests_on_map/pieces_of_chest/pistol",
-            "weight": 2
+            "weight": 144
           },
           {
             "type": "minecraft:loot_table",
             "name": "weaponary:chests/chests_on_map/pieces_of_chest/rifles",
-            "weight": 2
+            "weight": 112
           },
           {
             "type": "minecraft:loot_table",
             "name": "weaponary:chests/chests_on_map/pieces_of_chest/shotgun",
-            "weight": 2
+            "weight": 112
           },
           {
             "type": "minecraft:loot_table",
             "name": "weaponary:chests/chests_on_map/pieces_of_chest/smg",
-            "weight": 2
+            "weight": 112
           }
         ]
       }

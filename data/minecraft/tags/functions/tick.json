@@ -1,5 +1,6 @@
 {
     "values": [
+    "weaponary:setup/eastereggs/tick",
     "weaponary:fungus_click_detection",
     "weaponary:heartbeat/tick",
     "weaponary:damage_increase/tick",
@@ -13,6 +14,7 @@
     "weaponary:spawn/plane/kill_plane",
     "weaponary:spawn/plane/move_plane",
     "weaponary:spawn/plane/tick",
-    "weaponary:setup/tick/is_sneaking"
+    "weaponary:setup/tick/is_sneaking",
+    "weaponary:setup/loot_chests/chest_placer_placer"
  ]
 }

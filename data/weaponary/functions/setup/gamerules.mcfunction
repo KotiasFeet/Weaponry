@@ -1,2 +1,3 @@
 gamerule doFireTick false
 gamerule naturalRegeneration false
+gamerule doMobSpawning false
