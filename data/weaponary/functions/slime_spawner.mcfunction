@@ -1,7 +1,7 @@
 #> CHESTS
 # 5 blocks above the ground
 # give @p slime_spawn_egg{EntityTag:{Size:0,Glowing:1b,Tags:["chest_placer_placer"]}, display:{Name:'["",{"text":"Chest Setup","italic":false,"color":"white"}]'}}
-execute as @e[tag=chest_placer_placer] at @s run summon armor_stand ~ ~5 ~ {NoGravity:true, Glowing:true, Tags:["chest_placer"]}
+execute as @e[tag=chest_placer_placer] at @s run summon armor_stand ~ ~5 ~ {NoGravity:true, Glowing:true, Tags:["chest_placer", "to_be_marker"]}
 execute as @e[tag=chest_placer_placer] run kill @s
 
 
@@ -21,6 +21,6 @@ execute as @e[tag=plane_end_placer] run kill @s
 
 #> BORDER CENTER
 # 0 blocks above the ground
-# give @p slime_spawn_egg{EntityTag:{Size:0,Glowing:1b,Tags:["border_center"]}, display:{Name:'["",{"text":"Border Center","italic":false,"color":"dark_purple"}]'}}
-execute as @e[tag=border_center] at @s run summon minecraft:armor_stand ~ ~ ~ {Team:tech_BorderCenter, Glowing:1b, NoGravity:true}
-execute as @e[tag=border_center] run kill @s
+# give @p slime_spawn_egg{EntityTag:{Size:0,Glowing:1b,Tags:["border_center_placer"]}, display:{Name:'["",{"text":"Border Center","italic":false,"color":"dark_purple"}]'}}
+execute as @e[tag=border_center_placer] at @s run summon minecraft:armor_stand ~ ~ ~ {Team:tech_BorderCenter, Glowing:1b, NoGravity:true, Tags:["border_center","to_be_marker"]}
+execute as @e[tag=border_center_placer] run kill @s
