@@ -10,6 +10,5 @@ execute as @e[scores={healthToDummy=1}] on target run tellraw @s ["",{"text":"I 
 
 
 
-execute as @e[type=interaction, scores={healthToDummy=1..}] run data remove entity @s attack
-execute as @e[type=interaction, scores={healthToDummy=1..}] run data remove entity @s interaction
-
+execute as @e[type=interaction, scores={healthToDummy=0..}] run data remove entity @s attack
+execute as @e[type=interaction, scores={healthToDummy=0..}] run data remove entity @s interaction
