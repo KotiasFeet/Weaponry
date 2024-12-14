@@ -1,7 +1,6 @@
 execute as @a if score @s fungusRightClick matches 1.. if entity @s[nbt={SelectedItem:{tag:{Tags:{get_tags:1}}}}] run tellraw @s [{"text": "You clicked item with Tags "}, {"nbt":"SelectedItem.tag.Tags", "entity":"@s", "color": "aqua"}]
 
 
-
 ###> CLASSES
 ## HOLLOW
 # Fade     /give @s minecraft:warped_fungus_on_a_stick{Tags:["fade:1"]}                               кулдаун

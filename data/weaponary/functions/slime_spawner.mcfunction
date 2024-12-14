@@ -1,3 +1,5 @@
+###---------> execute as @e[tag=to_be_marker] run data merge entity @s {Marker:true, Invisible:true} <---------#
+
 #> CHESTS
 # 5 blocks above the ground
 # give @p slime_spawn_egg{EntityTag:{Size:0,Glowing:1b,Tags:["chest_placer_placer"]}, display:{Name:'["",{"text":"Chest Setup","italic":false,"color":"white"}]'}}
